@@ -7,4 +7,4 @@ It was a team project and I had the task to impliment the home page and write th
 Hopefully once my team is done with the page, I will upload the rest of the pages as well.
 
 TECH used : Node, Bootstrap.
-Team members : Akash bhati, Sumit Kumar, Supriya Negi.
+TEAM MEMBERS : Akash bhati, Sumit Kumar, Supriya Negi.
